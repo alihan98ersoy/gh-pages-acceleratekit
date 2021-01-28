@@ -7,6 +7,7 @@ description: 4
 
 **1. Create an Android Studio project.**
    Create a project named example in Android Studio, select Native C++, and use default settings in follow-up steps.
+
 <img src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/1a.png" width=333>
 
 **2. Add the NDK build information.**
