@@ -1,6 +1,6 @@
 ---
 title: "References"
-description: 1
+description: 8
 ---
 - [API Reference](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/introduction-0000001050706106-V5)
 
