@@ -7,7 +7,7 @@ The **aim** of the codelab is to compare the calculation speed of **single tread
 
 ·    Set related parameters, including the weight, size, and age ranges also the number of people on the UI. These parameters are needed to calculate the **BMR**.
 
-  <img src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/6a.png" width=333>                             
+  <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/6a.png">                             
 
 ·    Select the **gender** of people to be used and state how many people’s **BMR** will be calculated using the buttons and the line below.
 

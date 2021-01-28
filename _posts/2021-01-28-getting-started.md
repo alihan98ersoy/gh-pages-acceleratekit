@@ -8,7 +8,9 @@ description: 4
 **1. Create an Android Studio project.**
    Create a project named example in Android Studio, select Native C++, and use default settings in follow-up steps.
 
-<img src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/1a.png" width=333>
+
+
+<img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/1a.png">
 
 **2. Add the NDK build information.**
 	Add the following lines for NDK build to the /app/build.gradle file in the project directory:
@@ -18,7 +20,7 @@ arguments "-DANDROID_STL=c++_shared"
 abiFilters "arm64-v8a","armeabi-v7a"
 ```
 
-<img src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/2a.png" width=333>
+<img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/2a.png">
 
 **3. Copy libraries and header files.**
 a) Download the SDK package from [SDK Download](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Library/sdk-download-0000001051060752) and decompress the package.
@@ -26,7 +28,7 @@ b) Copy the header files in the SDK to the resource library.
 
 In the /app directory in the Android Studio project, create an include folder. Copy the files in the /include directory of the SDK to the newly created include folder.
 
-<img src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/3a.png" width=333>
+<img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/3a.png">
 
 c) Copy the .so files in the SDK to the resource library.
 
@@ -35,7 +37,7 @@ Create a libs folder in the /app directory and create an arm64-v8a folder and an
 Copy libdispatch.so and libBlockRuntime.so in th/lib64** 4 directory of the SDK to th/libs/arm64-v8a8a directory of Android Studio.
 
 Copy the libdispatch.so and libBlockRuntime.so files in the /lib directory of the SDK to the /libs/armeabi-v7a directory of Android Studio.
-<img src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/3b.png" width=333>
+<img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/3b.png">
 d) Modify the CMakeLists.txt file in the app/src/main/cpp directory as follows.
 
 
