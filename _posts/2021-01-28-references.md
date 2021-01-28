@@ -2,9 +2,9 @@
 title: "References"
 description: 8
 ---
-- [API Reference](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/introduction-0000001050706106-V5)
+- For more information, please refer to [related documents](https://developer.huawei.com/consumer/en/hms/huawei-acceleratekit/).
 
-- [FAQs](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/faq-0000001050986161-V5)
+  Download the demo source code used in this codelab from the following address:
 
-- [Development Guide](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides-V5/config-agc-0000001057629153-V5)
+  [Download Source Code](https://github.com/huaweicodelabs/AccelerateKit/tree/master/multithread-lib)
 
