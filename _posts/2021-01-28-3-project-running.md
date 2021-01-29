@@ -1,6 +1,6 @@
 ---
 title: "Project Running"
-description: 20
+description: 5
 ---
 
 The **aim** of the codelab is to compare the calculation speed of **single tread java**, **multi treads java** and **acceleration kit**. Follow the list below.
