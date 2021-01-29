@@ -7,22 +7,22 @@ The **aim** of the codelab is to compare the calculation speed of **single tread
 
 ·    Set related parameters, including the weight, size, and age ranges also the number of people on the UI. These parameters are needed to calculate the **BMR**.
 
-  <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/6a.png">                             
+  <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/gh-pages/assets/6a.png">                             
 
 ·    Select the **gender** of people to be used and state how many people’s **BMR** will be calculated using the buttons and the line below.
 
- <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/6b.png">
+ <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/gh-pages/assets/6b.png">
 
 ·    Click the **ADD LIST** button to create people data according to information selected on the page. The result can be checked like below.
 
- <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/6c.png">
+ <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/gh-pages/assets/6c.png">
 
  
 
 ·    Click the **WRITE LIST** button to set the data to **.txt** document then click **CALCULATE** button to calculate BMR of the people. If you need to reset the values in the txt list, click the **RESET VALUES**. 
 
- <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/6d.png">
+ <img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/gh-pages/assets/6d.png">
 
 ·    Check the results like below. The **BMR** is calculated using tree ways. These are **Accelerate Kit(C++), single tread(Java) and multi tread(Java)**. the result and how much time these three ways used for calculation are printed on the screen below
 
-<img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/6e.png"> 
+<img style="width: 250.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/gh-pages/assets/6e.png"> 

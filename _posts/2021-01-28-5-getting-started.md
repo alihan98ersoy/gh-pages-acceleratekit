@@ -10,7 +10,7 @@ description: 20
 
 
 
-<img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/1a.png">
+<img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/gh-pages/assets/1a.png">
 
 **2. Add the NDK build information.**
 	Add the following lines for NDK build to the /app/build.gradle file in the project directory:
@@ -20,7 +20,7 @@ arguments "-DANDROID_STL=c++_shared"
 abiFilters "arm64-v8a","armeabi-v7a"
 ```
 
-<img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/2a.png">
+<img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/gh-pages/assets/2a.png">
 
 **3. Copy libraries and header files.**
 a) Download the SDK package from [SDK Download](https://developer.huawei.com/consumer/en/doc/development/HMSCore-Library/sdk-download-0000001051060752) and decompress the package.
@@ -28,7 +28,7 @@ b) Copy the header files in the SDK to the resource library.
 
 In the /app directory in the Android Studio project, create an include folder. Copy the files in the /include directory of the SDK to the newly created include folder.
 
-<img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/3a.png">
+<img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/gh-pages/assets/3a.png">
 
 c) Copy the .so files in the SDK to the resource library.
 
@@ -38,7 +38,7 @@ Copy libdispatch.so and libBlockRuntime.so in th/lib64** 4 directory of the SDK 
 
 Copy the libdispatch.so and libBlockRuntime.so files in the /lib directory of the SDK to the /libs/armeabi-v7a directory of Android Studio.
 
-<img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/3b.png">
+<img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/gh-pages/assets/3b.png">
 
 d) Modify the CMakeLists.txt file in the app/src/main/cpp directory as follows.
 
