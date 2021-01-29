@@ -1,6 +1,6 @@
 ---
 title: "References"
-description: 5
+description: 1
 ---
 - For more information, please refer to [related documents](https://developer.huawei.com/consumer/en/hms/huawei-acceleratekit/).
 
