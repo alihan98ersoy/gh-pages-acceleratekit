@@ -37,7 +37,9 @@ Create a libs folder in the /app directory and create an arm64-v8a folder and an
 Copy libdispatch.so and libBlockRuntime.so in th/lib64** 4 directory of the SDK to th/libs/arm64-v8a8a directory of Android Studio.
 
 Copy the libdispatch.so and libBlockRuntime.so files in the /lib directory of the SDK to the /libs/armeabi-v7a directory of Android Studio.
+
 <img style="width: 500.00px ; padding: 5px" src="https://raw.githubusercontent.com/alihan98ersoy/gh-pages-acceleratekit/main/assets/3b.png">
+
 d) Modify the CMakeLists.txt file in the app/src/main/cpp directory as follows.
 
 
