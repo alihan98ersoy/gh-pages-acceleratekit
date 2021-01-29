@@ -1,6 +1,6 @@
 ---
 title: "What You Will Need"
-description: 2
+description: 5
 ---
 **Hardware Requirements**
 -------------------------

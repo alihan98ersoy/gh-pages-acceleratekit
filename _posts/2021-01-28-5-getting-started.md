@@ -1,6 +1,6 @@
 ---
 title: Integrating the HMS Core SDK
-description: 4
+description: 20
 ---
 
 ## Integrating the HMS Core SDK

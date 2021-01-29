@@ -1,6 +1,6 @@
 ---
 title: "Code Development"
-description: 5
+description: 30
 ---
 
 This section provides instructions for calculating BMR (*Basal Metabolic Rate)* with the Accelerate Kit API using **Mifflin-St Jeor Equation:**

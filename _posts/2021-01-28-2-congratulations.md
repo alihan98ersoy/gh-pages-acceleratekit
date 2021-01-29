@@ -1,6 +1,6 @@
 ---
 title: "Congratulations"
-description: 7
+description: 5
 ---
 
 Well done. You have successfully completed this codelab and learned how to:

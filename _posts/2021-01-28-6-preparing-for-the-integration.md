@@ -1,6 +1,6 @@
 ---
 title: "Integration Preparations"
-description: 3
+description: 5
 ---
 
 To integrate HUAWEI Accelerate Kit, you must complete the following preparations:
